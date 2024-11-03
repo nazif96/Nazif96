@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Analyste/Scientifique** des Données, compétent en `Python` `R` et `SQL`, je suis passionné par le monde des données et tous les sujets qui y sont liés.
+J'ai également un intérêt grandissant pour l'ingénierie des données. 
+
+
