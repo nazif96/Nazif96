@@ -20,9 +20,9 @@ J'ai également un intérêt grandissant pour l'ingénierie des données.
 
 **Langages et outils**
 
-| Python | R | Git | PostgreSQL | Docker | Quarto | Typst | CSS |
+| Python | R | Git | PostgreSQL | Docker | Quarto | CSS |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://img.icons8.com/color/480/null/python--v1.png" width="48" height="48"> | <img src="https://img.icons8.com/fluency/480/null/r-project.png" width="48" height="48"> | <img src="https://img.icons8.com/color/480/null/git.png" width="48" height="48"> | <img src="https://img.icons8.com/color/480/null/postgreesql.png" width="48" height="48"> | ![Docker](path/to/docker-icon.svg) | ![Quarto](path/to/quarto-icon.svg) | ![Typst](path/to/typst-icon.svg) | <img src="https://img.icons8.com/fluency/480/null/css3.png" width="48" height="48"> |
+| <img src="https://img.icons8.com/color/480/null/python--v1.png" width="48" height="48"> | <img src="https://img.icons8.com/fluency/480/null/r-project.png" width="48" height="48"> | <img src="https://img.icons8.com/color/480/null/git.png" width="48" height="48"> | <img src="https://img.icons8.com/color/480/null/postgreesql.png" width="48" height="48"> | ![Docker](path/to/docker-icon.svg) | ![Quarto](path/to/quarto-icon.svg) | <img src="https://img.icons8.com/fluency/480/null/css3.png" width="48" height="48"> |
 
 
 
