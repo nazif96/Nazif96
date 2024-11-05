@@ -22,9 +22,6 @@ J'ai également un intérêt grandissant pour l'ingénierie des données.
 
 |<img src="https://img.icons8.com/color/480/null/python--v1.png" width="48" height="48">|  <img src="https://img.icons8.com/fluency/480/null/r-project.png" width="48" height="48"> | <img src="https://img.icons8.com/color/480/null/git.png" width="48" height="48">| <img src="https://img.icons8.com/color/480/null/postgreesql.png" width="48" height="48">
 
-Docker : ![Docker](path/to/docker-icon.svg)
-
-Quarto :  ![Quarto](path/to/quarto-icon.svg
 
 
 
