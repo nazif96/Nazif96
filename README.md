@@ -20,7 +20,9 @@ J'ai également un intérêt grandissant pour l'ingénierie des données.
 
 **Langages et outils**
 
-|<img src="https://img.icons8.com/color/480/null/python--v1.png" width="48" height="48">|  <img src="https://img.icons8.com/fluency/480/null/r-project.png" width="48" height="48"> | <img src="https://img.icons8.com/color/480/null/git.png" width="48" height="48">| <img src="https://img.icons8.com/color/480/null/postgreesql.png" width="48" height="48">
+|<img src="https://img.icons8.com/color/480/null/python--v1.png" width="48" height="48">|  <img src="https://img.icons8.com/fluency/480/null/r-project.png" width="48" height="48"> | <img src="https://img.icons8.com/color/480/null/git.png" width="48" height="48">| <img src="https://img.icons8.com/color/480/null/postgreesql.png" width="48" height="48">|
+<img src="https://img.icons8.com/?size=100&id=Wln8Z3PcXanx&format=png&color=000000" width="48" height="48">
+
 
 
 
