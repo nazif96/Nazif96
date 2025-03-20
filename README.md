@@ -7,7 +7,7 @@
 
 
 - 💼 **Data Scientist | Big Data | Machine Learning**
-- 🌱 Passionné par analyste des données, le développement de tableaux de bord et le Machine Learning .
+- 🌱 Passionné par analyse des données, le développement de tableaux de bord et le Machine Learning .
 - 📫 Comment me joindre : afolabinazif96@gmail.com
 
 
