@@ -36,3 +36,21 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+
+### 📈 Notable Projects 
+
+- **🤖 Machine Learning & Modeling:**
+    - [🚘Car Price](https://github.com/nazif96/Car-price) Prédiction de prix de vente des voitures d'occasion à d'un modèle machine learning
+    - [Bank loan prediction](https://github.com/nazif96/Bank-loan-prediction) Prédiction de l'eligibilité ou non d'un client à un prêt avec le machine learning 
+    - [Sentiment-Analysis-Top_1000_IMDb_movies](https://github.com/nazif96/Sentiment-Analysis-Top_1000_IMDb_movies) 
+
+
+- **🔄 Data Engineering & Data Pipelines:**
+    - [Nyc yellow taxi trips](https://github.com/nazif96/nyc-yellow-taxi-trips) Pipeline de données de bout en bout automatisé pour l'analyse du marché avec airflow dans Google Cloud Platform
+    - 
+
+
+
+- **📊 data analysis & Dashboard Development:**
+    - [Business Analytics Dashboard](https://github.com/nazif96/Business-analytics-Dashboard) Application interactive construite avec Streamlit permettant d'explorer, visualiser et analyser des données RH provenant d’une entreprise.
+    - [Electric vehicles Market Size Analysis 2025](https://github.com/nazif96/Electric-vehicles-Market-size-Analysis-) Une application interactive développée avec Streamlit pour explorer, analyser et visualiser les données sur les véhicules électriques immatriculés dans l'État de Washington (USA).
