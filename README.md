@@ -31,11 +31,16 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nlp](https://img.shields.io/badge/-NLP-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![LSTM](https://img.shields.io/badge/-LSTM-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/-GCP-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 
 ### 📈 Notable Projects 
 
@@ -54,3 +59,4 @@
 - **📊 data analysis & Dashboard Development:**
     - [Business Analytics Dashboard](https://github.com/nazif96/Business-analytics-Dashboard) Application interactive construite avec Streamlit permettant d'explorer, visualiser et analyser des données RH provenant d’une entreprise.
     - [Electric vehicles Market Size Analysis 2025](https://github.com/nazif96/Electric-vehicles-Market-size-Analysis-) Une application interactive développée avec Streamlit pour explorer, analyser et visualiser les données sur les véhicules électriques immatriculés dans l'État de Washington (USA).
+    - [Sales Analytics Dashboard](https://github.com/nazif96/Sales-Analytics-dashboard) Une application interactive streamlit d'analyse des ventes des magasins  
