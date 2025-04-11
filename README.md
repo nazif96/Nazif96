@@ -62,5 +62,6 @@
     - [Sales Analytics Dashboard](https://github.com/nazif96/Sales-Analytics-dashboard) Une application interactive streamlit d'analyse des ventes des magasins  
 
 - **🚀 Déploiement**
-    - [Bank Loan App](https://github.com/nazif96/Bank-Loan-App-) Déploiement Dockerisé de l'application de simulation de l'éligibilité d'un client à un prêt bancaire, hébergée sur [Render.com](https://render.com).
+    - [Bank Loan App](https://github.com/nazif96/Bank-Loan-App-) Déploiement Dockerisé de l'application de simulation de l'éligibilité d'un client à un prêt bancaire.
+        
         🔗 Application accessible sur : [https://bank-loan-app.onrender.com](https://bank-loan-app.onrender.com)
