@@ -60,3 +60,7 @@
     - [Business Analytics Dashboard](https://github.com/nazif96/Business-analytics-Dashboard) Application interactive construite avec Streamlit permettant d'explorer, visualiser et analyser des données RH provenant d’une entreprise.
     - [Electric vehicles Market Size Analysis 2025](https://github.com/nazif96/Electric-vehicles-Market-size-Analysis-) Une application interactive développée avec Streamlit pour explorer, analyser et visualiser les données sur les véhicules électriques immatriculés dans l'État de Washington (USA).
     - [Sales Analytics Dashboard](https://github.com/nazif96/Sales-Analytics-dashboard) Une application interactive streamlit d'analyse des ventes des magasins  
+
+- **🚀 Déploiement**
+    - [Bank Loan App](https://github.com/nazif96/Bank-Loan-App-) Déploiement Dockerisé de l'application de simulation de l'éligibilité d'un client à un prêt bancaire, hébergée sur [Render.com](https://render.com).
+        🔗 Application accessible sur : [https://bank-loan-app.onrender.com](https://bank-loan-app.onrender.com)
