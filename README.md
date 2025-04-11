@@ -45,7 +45,7 @@
 ### 📈 Notable Projects 
 
 - **🤖 Machine Learning & Modeling:**
-    - [🚘Car Price](https://github.com/nazif96/Car-price) Prédiction de prix de vente des voitures d'occasion à d'un modèle machine learning
+    - [🚘Car Price](https://github.com/nazif96/Car-price) Prédiction de prix de vente des voitures d'occasion à l'aide d'un modèle machine learning
     - [Bank loan prediction](https://github.com/nazif96/Bank-loan-prediction) Prédiction de l'eligibilité ou non d'un client à un prêt avec le machine learning 
     - [Sentiment-Analysis-Top_1000_IMDb_movies](https://github.com/nazif96/Sentiment-Analysis-Top_1000_IMDb_movies) Classification de sentiments des avis des films sur IMDB à travers Modélisation Machine Learning(Naive Bayes, SVM) & Deep Learning(LSTM). 
 
