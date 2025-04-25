@@ -18,6 +18,9 @@
 - **📊 Développement de tableaux de bord (Dashboard)**
 - **🚀 Déploiement**
 
+
+🚀 En parallèle, je me forme en autodidacte au métier de Data Engineer, avec un focus sur la construction de pipelines data et leur déploiement vers le cloud (GCP / AWS).
+
 ### ⚙️ Tech Stack 
 
 
