@@ -7,6 +7,7 @@
 
 - 💼 **Data Scientist | Big Data | Machine Learning**
 - 🌱 Passionné par analyse des données, le développement de tableaux de bord et le Machine Learning .
+- 🚀 En parallèle, je me forme en autodidacte au métier de Data Engineer, avec un focus sur la construction de pipelines data et leur déploiement vers le cloud (GCP / AWS).
 - 📫 Comment me joindre : afolabinazif96@gmail.com
 
 
@@ -19,7 +20,7 @@
 - **🚀 Déploiement**
 
 
-🚀 En parallèle, je me forme en autodidacte au métier de Data Engineer, avec un focus sur la construction de pipelines data et leur déploiement vers le cloud (GCP / AWS).
+
 
 ### ⚙️ Tech Stack 
 
@@ -55,7 +56,7 @@
 
 - **🔄 Data Engineering & Data Pipelines:**
     - [Nyc yellow taxi trips](https://github.com/nazif96/nyc-yellow-taxi-trips) Pipeline de données de bout en bout automatisé pour l'analyse du marché avec airflow dans Google Cloud Platform
-    - 
+    
 
 
 
