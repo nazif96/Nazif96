@@ -1,23 +1,23 @@
 # Nazifou AFOLABI 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazifou-afolabi-10544729b/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:afolabinazif96@gmail.com)
+<!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:afolabinazif96@gmail.com) -->
 
 
 
-- 💼 **Data Scientist | Big Data | Machine Learning**
-- 🌱 Passionné par analyse des données, le développement de tableaux de bord et le Machine Learning .
-- 🚀 En parallèle, je me forme en autodidacte au métier de Data Engineer, avec un focus sur la construction de pipelines data et leur déploiement vers le cloud (GCP / AWS).
+- 💼 **Data Analyst | Big Data **
+- 🌱 Passionné par analyse des données, le développement de tableaux de bord .
+- 🚀 En parallèle, je me forme en autodidacte au métier de Data Engineer, avec un focus sur la construction de pipelines data et leur déploiement vers le cloud GCP (Google Cloud Platform).
 - 📫 Comment me joindre : afolabinazif96@gmail.com
 
 
 ### 🖥️ Skills
 
 - **📉 Big data**
-- **🤖 Machine Learning & Modélisation**
+<!-- - **🤖 Machine Learning & Modélisation**  -->
 - **🔄 Data Engineering & Data Pipeline**
 - **📊 Développement de tableaux de bord (Dashboard)**
-- **🚀 Déploiement**
+<!-- - **🚀 Déploiement**  -->
 
 
 
