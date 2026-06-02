@@ -35,7 +35,7 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nlp](https://img.shields.io/badge/-NLP-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+<!--![Nlp](https://img.shields.io/badge/-NLP-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![LSTM](https://img.shields.io/badge/-LSTM-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
@@ -44,7 +44,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/-GCP-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)-->
 
 ### 📈 Notable Projects 
 
