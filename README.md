@@ -14,9 +14,9 @@
 ### 🖥️ Skills
 
 - **📉 Big data**
-<!-- - **🤖 Machine Learning & Modélisation**  -->
 - **🔄 Data Engineering & Data Pipeline**
 - **📊 Développement de tableaux de bord (Dashboard)**
+- <!-- - **🤖 Machine Learning & Modélisation**  -->
 <!-- - **🚀 Déploiement**  -->
 
 
@@ -34,8 +34,8 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-<!--![Nlp](https://img.shields.io/badge/-NLP-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+<!--![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nlp](https://img.shields.io/badge/-NLP-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![LSTM](https://img.shields.io/badge/-LSTM-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
