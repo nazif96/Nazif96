@@ -1,8 +1,8 @@
 # Salut, je m’appelle Nazifou AFOLABI 
-<div>
+
+## Data / BI Analyst | Aspiring Data Engineer
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazifou-afolabi-10544729b/)
 <!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:afolabinazif96@gmail.com) -->
-<\div>
 
 
 - 💼 **Data Analyst | Big Data **
