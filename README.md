@@ -4,13 +4,21 @@
 
 ### Data / BI Analyst | Aspiring Data Engineer
 
+Passionné par l’analyse de données, la modélisation et l’automatisation. Je développe des solutions BI robustes
+tout en approfondissant sans cesse mes connaissances en ingénierie des données afin de créer des pipelines de données
+évolutifs.
 
-
-
-- 💼 **Data Analyst | Big Data **
-- 🌱 Passionné par analyse des données, le développement de tableaux de bord .
-- 🚀 En parallèle, je me forme en autodidacte au métier de Data Engineer, avec un focus sur la construction de pipelines data et leur déploiement vers le cloud GCP (Google Cloud Platform).
+- 💼 Je recherche actuellement un poste permanent (CDI) d’analyste données / BI
+-  Focusing on optimizing SQL queries, Python automation, and modern data stack
+architectures (dbt, cloud warehouses)
+- Je me concentre sur l’optimisation des requêtes SQL, l’automatisation en Python et les architectures modernes de pile de données
+(dbt, entrepôts de données dans le cloud)
 - 📫 Comment me joindre : afolabinazif96@gmail.com
+
+<!-- - 💼 **Data Analyst | Big Data **
+- 🌱 Passionné par analyse des données, le développement de tableaux de bord .
+- 🚀 En parallèle, je me forme en autodidacte au métier de Data Engineer, avec un focus sur la construction de pipelines data et leur déploiement vers le cloud GCP (Google Cloud Platform). -->
+
 
 
 ### 🖥️ Skills
