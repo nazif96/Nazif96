@@ -60,8 +60,8 @@ tout en approfondissant sans cesse mes connaissances en ingénierie des données
 
   - **Frontebd & App logic:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) & ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
   - **Containerisation:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  - **Déploiement:** ![Render](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  - **Versionning:**  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) & ![Github](https://img.shields.io/badge/Github-F05032?style=for-the-badge&logo=git&logoColor=white)
+  - **Déploiement:** ![Render](https://img.shields.io/badge/Render-2496ED?style=for-the-badge&logo=render&logoColor=white)
+  - **Versionning:**  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) & ![Github](https://img.shields.io/badge/Github-F05032?style=for-the-badge&logo=github&logoColor=white)
      
         
         🔗 Application accessible sur : [https://bank-loan-app.onrender.com](https://bank-loan-app.onrender.com)
