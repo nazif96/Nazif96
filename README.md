@@ -1,6 +1,6 @@
 # Salut, je m’appelle Nazifou AFOLABI 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazifou-afolabi-10544729b/)
-<!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:afolabinazif96@gmail.com) -->
+
 
 ### Data / BI Analyst | Aspiring Data Engineer
 
@@ -9,8 +9,6 @@ tout en approfondissant sans cesse mes connaissances en ingénierie des données
 évolutifs.
 
 - 💼 Je recherche actuellement un poste permanent (CDI) d’analyste données / BI
-<!-- -  Focusing on optimizing SQL queries, Python automation, and modern data stack
-architectures (dbt, cloud warehouses) -->
 - Je me concentre sur l’optimisation des requêtes SQL, l’automatisation en Python et les architectures modernes de pile de données
 (dbt, entrepôts de données dans le cloud)
 - 📫 Comment me joindre : afolabinazif96@gmail.com
