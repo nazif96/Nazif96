@@ -35,6 +35,7 @@ tout en approfondissant sans cesse mes connaissances en ingénierie des données
 - **Skills :** Nettoyage de données, Manipulation de données, Scraping & API REST.
 
 #### ⚙️ Data Engineering & DevOps (Foundations)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -43,7 +44,7 @@ tout en approfondissant sans cesse mes connaissances en ingénierie des données
 - **Skills :** Orchestration de pipelines (ETL/ELT), Versioning de code, Conteneurisation.
 
 
-### 📈 Notable Projects 
+## 📈 Notable Projects 
 
 - **📊 Data analysis & Dashboard Development:**
     - [Business Analytics Dashboard](https://github.com/nazif96/Business-analytics-Dashboard) Application interactive construite avec ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) permettant d'explorer, visualiser et analyser des données RH provenant d’une entreprise.
